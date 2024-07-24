@@ -4,9 +4,50 @@ import glob
 import re
 
 
-number_of_events_per_discipline={
-    'Badminton':0,
-
+number_of_events_per_discipline = {
+    'Badminton': 5,
+    'Breakdancing': 2,
+    'Boks': 13,
+    'GimnastykaArtystyczna': 2,
+    'GimnastykaSportowa': 14,
+    'GimnastykaTrampolina': 2,
+    'Golf': 2,
+    'HokejNaTrawie': 2,
+    'Jeździectwo': 6,
+    'Judo': 15,
+    'KajakarstwoGorskie': 6,
+    'KajakarstwoRegatowe': 10,
+    'KolarstwoBMX': 4,
+    'KolarstwoGorskie': 2,
+    'KolarstwoSzosowe': 4,
+    'KolarstwoTorowe': 12,
+    'Koszykowka': 2,
+    'Koszykowka3x3': 2,
+    'Lekkoatletyka': 48,
+    'Lucznictwo': 5,
+    'PieciobojNowoczesny': 2,
+    'PilkaNozna': 2,
+    'PilkaReczna': 2,
+    'PilkaWodna': 2,
+    'Plywanie': 37,
+    'PlywanieSynchroniczne': 2,
+    'PodnoszenieCiezarow': 10,
+    'Rugby7': 2,
+    'Siatkowka': 2,
+    'SiatkowkaPlazowa': 2,
+    'Skateboarding': 4,
+    'SkokiDoWody': 8,
+    'Strzelectwo': 15,
+    'Surfing': 2,
+    'Szermierka': 12,
+    'Taekwondo': 8,
+    'TenisStolowy': 5,
+    'TenisZiemny': 5,
+    'Triathlon': 3,
+    'Wioslarstwo': 14,
+    'WspinaczkaSportowa': 4,
+    'Zapasy': 18,
+    'Zeglarstwo': 10
 }
 
 def read_csv_files(path = os.getcwd()):
