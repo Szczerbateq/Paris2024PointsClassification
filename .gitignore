@@ -163,3 +163,6 @@ cython_debug/
 
 
 resources/
+main2.py
+notFinishedYet/
+results/
