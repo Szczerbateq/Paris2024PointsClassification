@@ -33,6 +33,7 @@ It also allows to return .xlsx file containing:
 - discipline
 - event
 - day
+
 that can be used to extract interesting data using pivot tables.
 
 ### Points classification
