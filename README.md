@@ -37,19 +37,20 @@ that can be used to extract interesting data using pivot tables.
 
 ### Points classification
 
-Main goal of the script was to be able to follow changes in points classification during the Olympic Games in Paris and final Results.xlsx would look like this. Important thing to keep in mind here is the fact that not every 8th place is worth the same amount of points (this apply to all other positions too), so the amount of points is not directly taken from the placings, it is rather summed using data from each event .xlsx. Example results are below, they contain TOP10 countries in terms of points scored.
+Main goal of the script was to be able to follow changes in points classification during the Olympic Games in Paris and final Results.xlsx would look like this. Important thing to keep in mind here is the fact that not every 8th place is worth the same amount of points (this apply to all other positions too), so the amount of points is not directly taken from the placings, it is rather summed using data from each event .xlsx. Example results are below, they contain TOP10 countries in terms of
 
-Index	Kraj	Liczba Punktów	1	2	3	4	5	6	7	8
-1	USA	1179	40	44	42	19	30	16	15	20
-2	Chiny	837,5	40	27	24	9	18	13	14	11
-3	Francja	687,5	16	26	22	16	21	14	16	18
-4	Wielka Brytania	679	14	22	29	19	23	8	13	8
-5	Włochy	548	12	13	15	20	25	17	10	8
-6	Australia	530	18	19	16	11	11	11	13	10
-7	Japonia	515	20	12	13	8	23	12	16	11
-8	Niemcy	480	12	13	8	12	22	22	13	15
-9	Holandia	377,5	15	7	12	14	5	10	8	5
-10	Kanada	332,5	9	7	11	11	9	9	9	13
+Index|Kraj|Liczba Punktów|1|2|3|4|5|6|7|8
+-|-|-|-|-|-|-|-|-|-|-
+1|USA|1179|40|44|42|19|30|16|15|20
+2|Chiny|837,5|40|27|24|9|18|13|14|11
+3|Francja|687,5|16|26|22|16|21|14|16|18
+4|Wielka Brytania|679|14|22|29|19|23|8|13|8
+5|Włochy|548|12|13|15|20|25|17|10|8
+6|Australia|530|18|19|16|11|11|11|13|10
+7|Japonia|515|20|12|13|8|23|12|16|11
+8|Niemcy|480|12|13|8|12|22|22|13|15
+9|Holandia|377,5|15|7|12|14|5|10|8|5
+10|Kanada|332,5|9|7|11|11|9|9|9|13
 
 
 
