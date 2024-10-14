@@ -37,7 +37,7 @@ that can be used to extract interesting data using pivot tables.
 
 ### Points classification
 
-Main goal of the script was to be able to follow changes in points classification during the Olympic Games in Paris and final Results.xlsx would look like this. Important thing to keep in mind here is the fact that not every 8th place is worth the same amount of points (this apply to all other positions too), so the amount of points is not directly taken from the placings, it is rather summed using data from each event .xlsx. Example results are below, they contain TOP10 countries in terms of
+Main goal of the script was to be able to follow changes in points classification during the Olympic Games in Paris and final Results.xlsx would look like this. Important thing to keep in mind here is the fact that not every 8th place is worth the same amount of points (this apply to all other positions too), so the amount of points is not directly taken from the placings, it is rather summed using data from each event .xlsx. Example results are below, they contain TOP10 countries in terms of points scored.
 
 Index|Kraj|Liczba Punktów|1|2|3|4|5|6|7|8
 -|-|-|-|-|-|-|-|-|-|-
